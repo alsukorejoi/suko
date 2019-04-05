@@ -9,7 +9,7 @@ t.title&&e.get("displaytitle")&&(n=t.title),t.description&&e.get("displaydescrip
 
 var jwDefaults = {
   "aspectratio": "16:9",
-  "autostart": true,
+  "autostart": false,
   "controls": true,
   "displaydescription": false,
   "displaytitle": false,
